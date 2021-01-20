@@ -1,5 +1,0 @@
-list of ingredient to recipe_name (I didn't realize that we were supposed to actually pick a real recipe, so I will say now that my recipe is spaghetti)
-- spaghetti noodles
-- vodka sauce
-- basil
-- parmesean
